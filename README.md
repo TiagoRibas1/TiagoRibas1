@@ -15,7 +15,7 @@ Estudante de Ciência da Computação em início de formação, com interesse em
 
 * Email: [tiribeiro100@gmail.com](mailto:tiribeiro100@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/tiago-ribeiro-5492983b3/
-* GitHub: https://github.com/tiribeiro100-eng
+* GitHub: https://github.com/TiagoRibas1
 
 ---
 
