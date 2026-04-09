@@ -3,12 +3,12 @@
 Estudante de Ciência da Computação | Desenvolvedor em formação
 
 ---
-<div align="center">
-  <img src="C:\Users\tirib\Downloads\Foto.png?raw=true" width="150px"/>
-    
-</div>
 
 ## 1. Perfil Pessoal
+
+<p align="center">
+  <img src="assets/foto.png" width="150px" style="border-radius: 50%;" />
+</p>
 
 **Nome:** Tiago Ribeiro
 
@@ -24,6 +24,12 @@ Estudante de Ciência da Computação em início de formação, com interesse em
 ---
 
 ## 2. Currículo
+
+O currículo completo pode ser acessado através do link abaixo:
+
+Currículo: https://docs.google.com/document/d/1q7Wb9BqwDBoWNOsL-wUS6Awc70_0GqXsWiGCv9ptvZY/edit?tab=t.0#heading=h.x8fm1uorkbaw
+
+---
 
 ### Formação Acadêmica
 
