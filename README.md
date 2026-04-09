@@ -5,6 +5,7 @@ Estudante de Ciência da Computação | Desenvolvedor em formação
 ---
 <div align="center">
   <img src="C:\Users\tirib\Downloads\Foto.png" width="150px"/>
+  ?raw=true
 </div>
 
 ## 1. Perfil Pessoal
