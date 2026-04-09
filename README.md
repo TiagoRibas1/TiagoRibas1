@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-blue.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-blue.svg" width="100%" />
 </div>
 
 # Portfólio Acadêmico – Tiago Ribeiro
