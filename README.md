@@ -3,12 +3,11 @@
 Estudante de Ciência da Computação | Desenvolvedor em formação
 
 ---
+<p align="center">
+  <img src="assets/foto.png" width="150px" style="border-radius: 50%;" />
+</p>
 
 ## 1. Perfil Pessoal
-
-<p align="center">
-  
-</p>
 
 **Nome:** Tiago Ribeiro
 
